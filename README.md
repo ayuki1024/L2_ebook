@@ -22,3 +22,4 @@
 
 #### 一个萝卜一个坑    [传送门](https://ayuki1024.github.io/edu_game/)
 <img src="https://www.google.com/doodles/kamma-rahbeks-241st-birthday" width="200px" />
+<img decoding="async" src="http://static.runoob.com/images/runoob-logo.png" width="50%">
