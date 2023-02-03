@@ -13,8 +13,8 @@
 
 #### Unit6 一个萝卜一个坑:   [计数排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC7%E8%AF%BE1%E4%B8%AA%E8%90%9D%E5%8D%9C1%E4%B8%AA%E5%9D%91/%E4%B8%80%E4%B8%AA%E8%90%9D%E5%8D%9C%E4%B8%80%E4%B8%AA%E5%9D%91.html)
 <table><tr>
-  <td><a href = "https://ayuki1024.github.io/edu_game/cntSortFruit/"><kbd><img decoding="async" src="images/cntSortfruit.png" height="200px"/></kbd></td>
-  <td><a href = "https://ayuki1024.github.io/edu_game/cntSortNumber/"><kbd><img decoding="async" src="images/cntSortNumber.png" height="200px"/></kbd></td>
+  <td><a href = "https://ayuki1024.github.io/edu_game/cntSortFruit/"><kbd><img decoding="async" src="images/cntSortfruit.png" height="200px"/></kbd></a></td>
+  <td><a href = "https://ayuki1024.github.io/edu_game/cntSortNumber/"><kbd><img decoding="async" src="images/cntSortNumber.png" height="200px"/></kbd></a></td>
  </tr></table>
 
 
