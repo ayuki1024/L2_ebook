@@ -20,6 +20,11 @@
 
 ## 游戏
 
-#### 一个萝卜一个坑    [传送门](https://ayuki1024.github.io/edu_game/)
-<img src="https://www.google.com/doodles/kamma-rahbeks-241st-birthday" width="200px" />
+#### 顺序查找 [传送门](https://ayuki1024.github.io/edu_game/shunxuchazhao/)
 <img decoding="async" src="/images/shunxu.png" width="50%">
+
+#### 计数排序_水果 [传送门](https://ayuki1024.github.io/edu_game/cntSortFruit)
+<img decoding="async" src="/images/cntSortFruit.png" width="50%">
+
+#### 计数排序_数字 [传送门](https://ayuki1024.github.io/edu_game/cntSortNumber)
+<img decoding="async" src="/images/cntSortNumber.png" width="50%">
