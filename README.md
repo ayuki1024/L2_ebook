@@ -3,7 +3,7 @@
 #### Unit1 众里寻他千百度:   [顺序查找](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC1%E8%AF%BE%E9%A1%BA%E5%BA%8F%E6%9F%A5%E6%89%BE/%E9%A1%BA%E5%BA%8F%E6%9F%A5%E6%89%BE.html)
 
 #### [游戏一下](https://ayuki1024.github.io/edu_game/shunxuchazhao/)
-<kbd><img decoding="async" src="images/shunxu.png" height="200px" border = 1/></kbd>
+[<kbd><img decoding="async" src="images/shunxu.png" height="200px" border = 1/></kbd>]((https://ayuki1024.github.io/edu_game/shunxuchazhao/)
 
 
 
