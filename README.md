@@ -6,8 +6,7 @@
 #### Unit2 先来后到讲规矩:   [栈与队列](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC2%E8%AF%BE%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97.html)
 [<kbd><img decoding="async" src="images/stackAndQueue.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/stackAndQueue/)
 
-#### Unit3 关于数位的奥秘:   [数位拆分]
-(https://youdao.online/L2%E7%AC%AC3%E8%AF%BE%E6%95%B0%E4%BD%8D%E6%8B%86%E5%88%86/%E6%95%B0%E4%BD%8D%E6%8B%86%E5%88%86)
+#### Unit3 关于数位的奥秘:   [数位拆分](https://youdao.online/L2%E7%AC%AC3%E8%AF%BE%E6%95%B0%E4%BD%8D%E6%8B%86%E5%88%86/%E6%95%B0%E4%BD%8D%E6%8B%86%E5%88%86)
 [<kbd><img decoding="async" src="images/03modGame.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/03modGame)
 
 #### Unit4 实战演练出真知   
