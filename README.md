@@ -23,4 +23,8 @@
 #### Unit7 筛法求素数:           [筛法](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC7%E8%AF%BE%E7%AD%9B%E6%B3%95%E6%B1%82%E7%B4%A0%E6%95%B0/%E7%AD%9B%E6%B3%95%E6%B1%82%E7%B4%A0%E6%95%B0.html)
 #### Unit8 实战演练出真知
 
+#### Unit17 步步为营找规律:           [递推](https://youdao.online/L2%E7%AC%AC17%E8%AF%BE%E9%80%92%E6%8E%A8/%E9%80%92%E6%8E%A8.html)
+
+#### Unit18 制作你的游戏规则:           [模拟算法](https://youdao.online/L2%E7%AC%AC18%E8%AF%BE%E6%A8%A1%E6%8B%9F%E7%AE%97%E6%B3%95/%E6%A8%A1%E6%8B%9F%E7%AE%97%E6%B3%95.html)
+
 #### CCF-GESP一级直通车:           [一级直通车](https://youdao.online/gesp_ccf_1%E7%BA%A7/GESP%E4%B8%80%E7%BA%A7%E7%9B%B4%E9%80%9A%E8%BD%A6.html)
