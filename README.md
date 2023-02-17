@@ -23,3 +23,5 @@
 #### Unit7 筛法求素数:           [筛法](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC7%E8%AF%BE%E7%AD%9B%E6%B3%95%E6%B1%82%E7%B4%A0%E6%95%B0/%E7%AD%9B%E6%B3%95%E6%B1%82%E7%B4%A0%E6%95%B0.html)
 #### Unit8 实战演练出真知
 
+#### CCF-GESP一级直通车:           [一级直通车]
+(https://youdao.online/gesp_ccf_1%E7%BA%A7/GESP%E4%B8%80%E7%BA%A7%E7%9B%B4%E9%80%9A%E8%BD%A6.html)
