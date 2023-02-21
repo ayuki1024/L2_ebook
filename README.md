@@ -27,7 +27,7 @@
 
 #### Unit13 数据巧分类:           [分类和排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC13%E8%AF%BE%E6%95%B0%E6%8D%AE%E5%B7%A7%E5%88%86%E7%B1%BB%EF%BC%9A%E6%8E%92%E5%BA%8F%2B%E5%88%86%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%88%86%E7%B1%BB.html)
 
-#### Unit15 给数据建个家谱:           [链表和树]((https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC15%E8%AF%BE%E9%93%BE%E8%A1%A8%E5%92%8C%E6%A0%91/%E7%BB%99%E6%95%B0%E6%8D%AE%E5%BB%BA%E4%B8%AA%E5%AE%B6%E8%B0%B1%EF%BC%9A%E9%93%BE%E8%A1%A8%E5%92%8C%E6%A0%91.html)
+#### Unit15 给数据建个家谱:           [链表和树](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC15%E8%AF%BE%E9%93%BE%E8%A1%A8%E5%92%8C%E6%A0%91/%E7%BB%99%E6%95%B0%E6%8D%AE%E5%BB%BA%E4%B8%AA%E5%AE%B6%E8%B0%B1%EF%BC%9A%E9%93%BE%E8%A1%A8%E5%92%8C%E6%A0%91.html)
 
 #### Unit17 步步为营找规律:           [递推](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC17%E8%AF%BE%E9%80%92%E6%8E%A8/%E9%80%92%E6%8E%A8.html)
 
