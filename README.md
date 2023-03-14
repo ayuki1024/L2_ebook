@@ -12,6 +12,7 @@
 #### Unit4 实战演练出真知   
 
 #### Unit5 初识0与1的世界:   [二进制](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC5%E8%AF%BE%E5%88%9D%E8%AF%860%E4%B8%8E1%E7%9A%84%E4%B8%96%E7%95%8C%E4%BA%8C%E8%BF%9B%E5%88%B6/%E5%88%9D%E6%97%B60%E4%B8%8E1%E7%9A%84%E4%B8%96%E7%95%8C.html)
+[<kbd><img decoding="async" src="images/shengxiao.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/05binary)
 
 #### Unit6 一个萝卜一个坑:   [计数排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC7%E8%AF%BE1%E4%B8%AA%E8%90%9D%E5%8D%9C1%E4%B8%AA%E5%9D%91/%E4%B8%80%E4%B8%AA%E8%90%9D%E5%8D%9C%E4%B8%80%E4%B8%AA%E5%9D%91.html)
 <table><tr>
