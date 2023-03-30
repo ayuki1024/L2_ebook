@@ -26,6 +26,10 @@
 
 #### Unit8 实战演练出真知
 
+#### Unit9 玩转不同进制的世界:           [进制]
+(http://youdao.online/L2%E7%AC%AC9%E8%AF%BE%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2.html)
+[<kbd><img decoding="async" src="images/09hex.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/09 hex)
+
 #### Unit10 暴力枚举巧优化:           [枚举](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC10%E8%AF%BE%E6%9A%B4%E5%8A%9B%E6%9E%9A%E4%B8%BE%E5%B7%A7%E4%BC%98%E5%8C%96/L2%E7%AC%AC10%E8%AF%BE%E6%9A%B4%E5%8A%9B%E6%9E%9A%E4%B8%BE%E5%B7%A7%E4%BC%98%E5%8C%96.html)
 
 #### Unit11 冒泡排序: [冒泡排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC11%E8%AF%BE%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.html)
