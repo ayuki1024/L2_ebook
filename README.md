@@ -32,6 +32,7 @@
 #### Unit10 暴力枚举巧优化:           [枚举](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC10%E8%AF%BE%E6%9A%B4%E5%8A%9B%E6%9E%9A%E4%B8%BE%E5%B7%A7%E4%BC%98%E5%8C%96/L2%E7%AC%AC10%E8%AF%BE%E6%9A%B4%E5%8A%9B%E6%9E%9A%E4%B8%BE%E5%B7%A7%E4%BC%98%E5%8C%96.html)
 
 #### Unit11 冒泡排序: [冒泡排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC11%E8%AF%BE%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.html)
+[<kbd><img decoding="async" src="images/bubblesort.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/11%20bubblesort/)
 
 #### Unit13 数据巧分类:           [分类和排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC13%E8%AF%BE%E6%95%B0%E6%8D%AE%E5%B7%A7%E5%88%86%E7%B1%BB%EF%BC%9A%E6%8E%92%E5%BA%8F%2B%E5%88%86%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%88%86%E7%B1%BB.html)
 
